@@ -1,0 +1,8 @@
+.mylist{
+display: grid;
+}
+
+.mylist button{
+    width: 60px;
+    margin: 5px;
+}

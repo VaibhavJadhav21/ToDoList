@@ -1,0 +1,62 @@
+.head h1{
+    font-size: 3rem;
+    text-align: center;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: rgb(71, 19, 71);
+    background-color:cornflowerblue;
+    padding: 10px;
+    text-shadow: white 2px 1px ;
+}
+*{
+    box-sizing: border-box;
+    margin: 0%;
+    padding: 0%;
+}
+input{
+    margin-top: 15px;
+    width: 500px;
+margin-left: 400px;
+text-align: center;
+    height: 50px;
+    
+    font-size: 25px;
+}
+.inp button{
+    height: 40px;
+    margin-left: 10px;
+    background-color: violet;
+    border-radius: 8px;
+    color: white;
+    padding: 12px;
+    text-shadow: black 1px 2px;
+    
+}
+/* .main_div {
+    display: flex;
+    justify-content: center;
+} */
+.main_div h1 {
+  display:inline;
+  text-align: center;
+  padding-left: 20px;
+  text-shadow: white 2px 1px ;
+  font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.main_div{
+    text-align: center;
+    background-color: cornflowerblue;
+    /* display: grid; */
+    margin-top: 20px;
+}
+.main_div button{
+    margin-left: 5px;
+    height: 30px;
+    
+    background-color:violet;
+    border-radius: 8px;
+    color: white;
+    
+    padding: 2px;
+    text-shadow: black 1px 2px;
+    width: 105px;
+}
